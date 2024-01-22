@@ -24,7 +24,7 @@ This Python script adds a white border to images, creating a final square image 
 4. Run the script using the following command:
 
    ```bash
-   python add_border.py
+   python add_border.py [Images folder name]
 The script will process all `.jpg` and `.png` images in the specified folder.
 
 5.  The output images with the white border will be saved in the same folder with the suffix `_1.png`.
